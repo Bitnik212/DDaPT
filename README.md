@@ -1,6 +1,9 @@
-# DDaPT
-Database development and protection technology - Технология разработки и защиты баз данных
+# Лабораторная работа №2. Технология создания связей между таблицами в клиентской части MySQL Workbench
 
-## Лабы по mysql и workbench:
+## Задание на лабораторную работу №2
+Создать связи между таблицами и заполнить таблицы данными.
 
-<a href="https://github.com/Bitnik212/DDaPT/tree/mysql_laba_1">Лаба 1</a>
+
+
+
+
