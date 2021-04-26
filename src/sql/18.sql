@@ -1,0 +1,1 @@
+select * from mydb.student where city_student = '';

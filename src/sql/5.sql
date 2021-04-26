@@ -1,0 +1,1 @@
+SELECT distinct mark FROM mydb.exam_marks;

@@ -1,0 +1,1 @@
+SELECT DISTINCT idsubject FROM mydb.exam_marks where idstudent in(10302, 10304);

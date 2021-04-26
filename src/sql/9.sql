@@ -1,0 +1,1 @@
+SELECT * FROM mydb.university where university_rating > 3; 

@@ -1,0 +1,1 @@
+SELECT * FROM mydb.exam_marks where idsubject = 3;

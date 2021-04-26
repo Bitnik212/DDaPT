@@ -1,0 +1,1 @@
+SELECT subject_name, subject_hour FROM mydb.subject where semester = 2;

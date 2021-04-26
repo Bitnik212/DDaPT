@@ -1,0 +1,1 @@
+SELECT * FROM mydb.student where birthday >= '1996-01-01' and kurs = 1;

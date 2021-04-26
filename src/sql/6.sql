@@ -1,0 +1,1 @@
+SELECT surname_student FROM mydb.student where kurs >= 3;

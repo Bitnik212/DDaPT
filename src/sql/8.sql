@@ -1,0 +1,1 @@
+SELECT subject_name FROM mydb.subject where subject_hour >= 80;
