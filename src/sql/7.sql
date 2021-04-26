@@ -1,1 +1,2 @@
-SELECT surname_student, name_student, kurs FROM mydb.student where stipend >= 1000;
+SELECT distinct exam_date, count(mark) FROM mydb.exam_marks where mark > 2
+group by exam_date;

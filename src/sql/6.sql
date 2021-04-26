@@ -1,1 +1,2 @@
-SELECT surname_student FROM mydb.student where kurs >= 3;
+SELECT subject_name, max(semester) FROM mydb.subject
+group by subject_name;

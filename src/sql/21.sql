@@ -1,1 +1,0 @@
-SELECT * FROM mydb.student where name_student like 'И%' or name_student like 'А%';

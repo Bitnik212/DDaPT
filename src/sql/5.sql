@@ -1,1 +1,2 @@
-SELECT distinct mark FROM mydb.exam_marks;
+SELECT * FROM mydb.student where surname_student like 'И%'
+order by surname_student;

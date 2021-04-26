@@ -1,1 +1,1 @@
-SELECT * FROM mydb.subject;
+SELECT count(*) FROM mydb.exam_marks where idsubject = 2;

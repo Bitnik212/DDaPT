@@ -1,2 +1,4 @@
-SELECT DISTINCT idsubject FROM exam_marks;
-SELECT * FROM exam_marks WHERE exam_date BETWEEN '2018-01-1' AND '2018-01-20';
+SELECT distinct s.kurs, count(distinct em.idsubject) FROM mydb.exam_marks as em
+join mydb.student as s
+on em.idstudent=s.idstudent
+group by s.kurs;

@@ -1,1 +1,1 @@
-SELECT * FROM mydb.exam_marks where idsubject = 3;
+SELECT  count(distinct idsubject) FROM mydb.exam_marks;

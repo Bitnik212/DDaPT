@@ -1,0 +1,1 @@
+SELECT count(distinct idstudent) FROM mydb.exam_marks where mark > 2;

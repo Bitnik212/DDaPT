@@ -1,1 +1,0 @@
-SELECT * FROM mydb.subject where subject_hour >= 100;

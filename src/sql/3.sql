@@ -1,1 +1,2 @@
-SELECT kurs, surname_student, name_student, stipend FROM mydb.student;
+SELECT idstudent, min(mark) FROM mydb.exam_marks
+group by idstudent;

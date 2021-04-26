@@ -1,1 +1,0 @@
-select * from mydb.student where birthday >= '2001-01-01';

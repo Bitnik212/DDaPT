@@ -1,1 +1,0 @@
-select * from mydb.lecturer where lecturer_city = 'Воронеж';

@@ -1,1 +1,2 @@
-SELECT subject_name, subject_hour FROM mydb.subject where semester = 2;
+SELECT idstudent, max(mark) FROM mydb.exam_marks
+group by idstudent;

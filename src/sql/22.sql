@@ -1,1 +1,0 @@
-SELECT * FROM mydb.exam_marks where mark = null;
