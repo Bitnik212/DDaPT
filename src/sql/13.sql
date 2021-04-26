@@ -1,1 +1,0 @@
-SELECT idstudent, surname_student, stipend*1.2 FROM mydb.student where stipend > 0 order by surname_student, stipend*1.2;

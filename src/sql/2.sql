@@ -1,1 +1,0 @@
-SELECT  count(distinct idsubject) FROM mydb.exam_marks;
